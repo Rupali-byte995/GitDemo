@@ -41,7 +41,12 @@ public class FileUpload {
 	
 	if(f.exists())
 	{
+<<<<<<< HEAD
 		System.out.println("New item also added");
+=======
+		System.out.println("New item added in it for practice");
+		System.out.println("New line added for see");
+>>>>>>> 2b2d9c08c6e4f63142c3773fba727389ebcb68db
 	System.out.println("File found");
 	f.delete();
 	System.out.println("File deleted");
