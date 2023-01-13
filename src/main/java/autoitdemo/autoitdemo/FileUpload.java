@@ -56,11 +56,26 @@ public class FileUpload {
 	System.out.println("File deleted");
 	}
 	
+
+	
+	
 		
 		
-		
-		
-		
+	}
+	
+	public void sample()
+	{
+	System.out.println("This is for developing branch");	
+	}
+
+	public void sample2()
+	{
+	System.out.println("This is for developing branch");	
+	}
+
+	public void sample3()
+	{
+	System.out.println("This is for developing branch");	
 	}
 
 }
