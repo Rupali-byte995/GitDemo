@@ -77,5 +77,9 @@ public class FileUpload {
 	{
 	System.out.println("This is for developing branch");	
 	}
+	public void mysample4()
+	{
+	System.out.println("This is for developing branch");	
+	}
 
 }
